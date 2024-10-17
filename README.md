@@ -5,7 +5,7 @@
 - [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in)
 - [📩 Send a Mail](mailto:ismailmuyideen.c05@gmail.com)
 - [🌐 Portfolio](https://notradioopaque.netlify.app/)
-- [🎓 Resume](https://github.com/notradioopaque/notradioopaque/blob/main/your-resume.pdf)
+- [🎓 Resume](https://github.com/notradioopaque/notradioopaque/blob/main/Resume.pdf)
 
 ## About Me ?
 
