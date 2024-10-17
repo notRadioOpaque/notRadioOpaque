@@ -1,16 +1,14 @@
-## Hi there 👋
+`<HelloWorld! 👋/>`
 
-<!--
-**notRadioOpaque/notRadioOpaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://gitroll.io/profile/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" alt="GitRoll Profile Badge"/></a>
 
-Here are some ideas to get you started:
+- [👨‍🏫 Connect on LinkedIn](https://www.linkedin.com/in)
+- [📩 Send a Mail](mailto:ismailmuyideen.c05@gmail.com)
+- [🌐 Portfolio](https://notradioopaque.netlify.app/)
+- [🎓 Resume](https://github.com/notradioopaque/notradioopaque/blob/main/your-resume.pdf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me ?
+
+- 💼 Framework-agnostic Frontend Engineer
+
+#### [Let's Chat](https://calendly.com/koladeleolaitan/chat) => and maybe build the next big thing 😉
