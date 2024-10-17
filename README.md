@@ -11,4 +11,4 @@
 
 - 💼 Framework-agnostic Frontend Engineer
 
-#### [Let's Chat](https://calendly.com/koladeleolaitan/chat) => and maybe build the next big thing 😉
+#### [Let's Chat](https://cal.com/notradioopaque/15min) => and maybe build the next big thing 😉
