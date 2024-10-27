@@ -30,7 +30,7 @@ I'm Frontend engineer building my version of the digital world one step at a tim
 
 #
 
-- [👨‍💻 Connect on LinkedIn](https://www.linkedin.com/in)
+- [👨‍💻 Connect on LinkedIn](https://www.linkedin.com/in/ismail-muyideen-619518202)
 - [📩 Send a Mail](mailto:ismailmuyideen.c05@gmail.com)
 - [🚀 Check out My Portfolio](https://notradioopaque.netlify.app/)
 - [📜 My Resume](https://github.com/notradioopaque/notradioopaque/blob/main/Resume.pdf)
