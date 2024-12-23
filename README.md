@@ -35,8 +35,6 @@ I'm Frontend engineer building my version of the digital world one step at a tim
 - [🚀 Check out My Portfolio](https://notradioopaque.netlify.app/)
 - [📜 My Resume](https://github.com/notradioopaque/notradioopaque/blob/main/Resume.pdf)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notradioopaque&show_icons=true&theme=transparent)
-
 #
 
 [Schedule a Meeting](https://cal.com/notradioopaque/15min) 👉👉👉 and maybe build the next big thing 😉
