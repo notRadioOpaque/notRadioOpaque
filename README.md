@@ -6,7 +6,7 @@ I'm Frontend engineer building my version of the digital world one step at a tim
 
 #
 
-<a href="https://gitroll.io/profile/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 
 ### 🧰 Languages and Tools
 
