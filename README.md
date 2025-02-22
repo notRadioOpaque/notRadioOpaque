@@ -1,4 +1,4 @@
-`<Hey there! 👋/>`
+`<Hello there! 👋/>`
 
 **`I'm Ismail Muyideen`**
 
