@@ -18,7 +18,7 @@ I'm Frontend engineer building my version of the digital world one step at a tim
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
@@ -32,7 +32,7 @@ I'm Frontend engineer building my version of the digital world one step at a tim
 
 - [👨‍💻 Connect on LinkedIn](https://www.linkedin.com/in/ismail-muyideen-619518202)
 - [📩 Send a Mail](mailto:ismailmuyideen.c05@gmail.com)
-- [🚀 Check out My Portfolio](https://notradioopaque.netlify.app/)
+- [🚀 Check out My Portfolio](https://heyismail.xyz/)
 - [📜 My Resume](https://github.com/notradioopaque/notradioopaque/blob/main/Resume.pdf)
 
 #
