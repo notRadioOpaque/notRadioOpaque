@@ -1,10 +1,6 @@
 `<Hey there! 👋/>`
 
-*`I'm Ismail Muyideen`*
-
-a Frontend Engineer building impactful products and open to full-time roles.
-
-#
+I'm Ismail Muyideen, a Frontend Engineer building impactful products and open to full-time roles.
 
 <!-- <a href="https://gitroll.io/profile/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a> -->
 
