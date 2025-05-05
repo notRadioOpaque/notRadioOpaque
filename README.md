@@ -1,6 +1,6 @@
 `<Hey there! 👋/>`
 
-**`I'm Ismail Muyideen`**
+##**`I'm Ismail Muyideen`**
 
 a Frontend Engineer building impactful products and open to full-time roles.
 
