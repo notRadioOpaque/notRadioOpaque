@@ -29,7 +29,7 @@ I'm Ismail Muyideen, a Frontend Engineer building impactful products and open to
 - [👨‍💻 Connect on LinkedIn](https://www.linkedin.com/in/ismail-muyideen-619518202)
 - [📩 Send a Mail](mailto:ismailmuyideen.c05@gmail.com)
 - [🚀 Check out My Portfolio](https://heyismail.xyz/)
-- [📜 My Resume](https://github.com/notradioopaque/notradioopaque/blob/main/Ismail_Muyideen.pdf)
+<!--  - [📜 My Resume](https://github.com/notradioopaque/notradioopaque/blob/main/Ismail_Muyideen.pdf) -->
 
 #
 
