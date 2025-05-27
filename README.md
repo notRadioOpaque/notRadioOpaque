@@ -25,7 +25,7 @@ currently learning Rust 🦀 and some of low level stuff 🧰...
 #
 
 - [📩 Send a Mail](mailto:ismailmuyideen.c05@gmail.com)
-- [🚀 Website](https://notradioopaque2.netlify.app)
+- [🚀 Website](https://heyismail.xyz)
 <!--  - [📜 My Resume](https://github.com/notradioopaque/notradioopaque/blob/main/Ismail_Muyideen.pdf) -->
 
 #
