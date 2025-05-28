@@ -28,6 +28,4 @@ currently learning Rust 🦀 and some of low level stuff 🧰...
 - [🚀 Website](https://heyismail.xyz)
 <!--  - [📜 My Resume](https://github.com/notradioopaque/notradioopaque/blob/main/Ismail_Muyideen.pdf) -->
 
-#
-
 <!-- [Schedule a Meeting](https://cal.com/notradioopaque/15min) 👉👉👉 and maybe build the next big thing 😉 -->
