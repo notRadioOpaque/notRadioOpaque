@@ -1,6 +1,6 @@
 `<Hey there! 👋/>`
 
-I'm Ismail Muyideen, a Software Engineer building impactful products and open to full-time roles.
+I'm Ismail Muyideen, a Software Engineer
 <br />
 
 currently learning Rust 🦀 and some of low level stuff 🧰...
