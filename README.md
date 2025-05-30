@@ -3,7 +3,7 @@
 I'm Ismail Muyideen, a Software Engineer
 <br />
 
-currently learning Rust 🦀 and some of low level stuff 🧰...
+currently learning Rust 🦀 and some low level stuff 🧰...
 
 <!-- <a href="https://gitroll.io/profile/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a> -->
 
