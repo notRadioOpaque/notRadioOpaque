@@ -1,4 +1,4 @@
-`<Hey there! 👋/>`
+# <Hey there! 👋/>
 
 ```toml
 name = "Ismail"
@@ -19,7 +19,7 @@ flavor = "Arch Linux (Hyprland)"
 
 [current]
 focus = "Exploring systems programming with Rust"
-reading = "The Rustonomicon"
+reading = "The Rust Book"
 project = "Building zet, a local-first terminal note-taking app"
 curious_about = [
   "memory management",
