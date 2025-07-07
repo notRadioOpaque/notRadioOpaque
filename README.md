@@ -25,6 +25,11 @@ shell = "Zsh"
 desktop = "Hyprland"
 browser = "Zen"
 
+[philosophy]
+software = "Pretty, minimal, efficient, and fast"
+learning = "Principle-driven; I seek the whys to truly understand and create with purpose"
+life = "Que sera sera 🤞 — I value deep focus, meaningful work, and standing firm on what matters"
+
 [current]
 focus = "Exploring systems programming with Rust"
 reading = "The Rust Book"
@@ -35,11 +40,6 @@ curious_about = [
   "Zettelkasten structure",
   "low-abstraction fullstack apps"
 ]
-
-[philosophy]
-software = "Pretty, minimal, efficient, and fast"
-learning = "Principle-driven; I seek the whys to truly understand and create with purpose"
-life = "Que sera sera 🤞 — I value deep focus, meaningful work, and standing firm on what matters"
 ```
 
 <!-- <a href="https://gitroll.io/profile/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a> -->
