@@ -1,6 +1,6 @@
 `<Hey there! 👋/>`
 
-```rust
+```
 alias = notradioopaque
 
 [self]
@@ -19,7 +19,7 @@ flavor = "Arch Linux (Hyprland)"
 [current]
 focus = "Exploring systems programming with Rust"
 reading = "The Rustonomicon"
-project = "Building `zet`, a local-first terminal note-taking app"
+project = "Building zet, a local-first terminal note-taking app"
 curious_about = [
   "memory management",
   "TUI frameworks",
