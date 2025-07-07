@@ -10,11 +10,11 @@ locale = "ng-en"
 icon = "🦥"
 
 [langs]
-fav = "Rust"
+fav = "Rust 🦀"
 most_used = "TypeScript"
 
 [os]
-kernel = "linux-hardened"
+kernel = "linux"
 flavor = "Arch Linux (Hyprland)"
 
 [current]
