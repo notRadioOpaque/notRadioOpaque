@@ -2,12 +2,11 @@
 
 ```toml
 name = Ismail
-alias = notradioopaque
 
 [self]
 age = 24
 locale = "ng-en"
-icon = "🚀"
+icon = "🦥"
 
 [langs]
 fav = "Rust"
