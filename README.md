@@ -1,6 +1,6 @@
 `<Hey there! 👋/>`
 
-```
+```toml
 alias = notradioopaque
 
 [self]
