@@ -1,7 +1,8 @@
 `<Hey there! 👋/>`
 
 ```toml
-name = Ismail
+name = "Ismail"
+alias = "notradioopaque"
 
 [self]
 age = 24
