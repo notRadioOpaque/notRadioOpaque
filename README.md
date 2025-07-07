@@ -1,13 +1,36 @@
 `<Hey there! 👋/>`
 
-I'm Ismail, a Software Engineer.
-<br />
+```rust
+alias = notradioopaque
 
-currently learning Rust 🦀 and some low level stuff 🧰...
+[self]
+age = 24
+locale = "ng-en"
+icon = "🚀"
+
+[langs]
+fav = "Rust"
+most_used = "TypeScript"
+
+[os]
+kernel = "linux-hardened"
+flavor = "Arch Linux (Hyprland)"
+
+[current]
+focus = "Exploring systems programming with Rust"
+reading = "The Rustonomicon"
+project = "Building `zet`, a local-first terminal note-taking app"
+curious_about = [
+  "memory management",
+  "TUI frameworks",
+  "Zettelkasten structure",
+  "low-abstraction fullstack apps"
+]
+```
 
 <!-- <a href="https://gitroll.io/profile/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a> -->
 
-### 🧰 Languages and Tools
+<!-- ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
@@ -19,7 +42,7 @@ currently learning Rust 🦀 and some low level stuff 🧰...
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+<img align="left" alt="rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" /> -->
 
 <!-- - [📩 Reach out](mailto:ismailmuyideen.c05@gmail.com) -->
 <!-- - [🚀 Website](https://heyismail.xyz) -->
