@@ -1,6 +1,7 @@
 `<Hey there! 👋/>`
 
 ```toml
+name = Ismail
 alias = notradioopaque
 
 [self]
