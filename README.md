@@ -28,7 +28,7 @@ browser = "Zen"
 [philosophy]
 software = "Pretty, minimal, efficient, and fast"
 learning = "Principle-driven; I seek the whys to truly understand and create with purpose"
-life = "Que sera sera 🤞 — I value deep focus, meaningful work, and standing firm on what matters"
+life = "Que sera sera 🤞"
 
 [current]
 focus = "Exploring systems programming with Rust"
