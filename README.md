@@ -3,6 +3,7 @@
 ```toml
 name = "Ismail"
 alias = "notradioopaque"
+role = "Software Engineer"
 
 [self]
 age = "redacted"
