@@ -3,10 +3,9 @@
 ```toml
 name = "Ismail"
 alias = "notradioopaque"
-role = "Software Engineer"
+role = "Frontend Engineer"
 
 [self]
-age = "redacted"
 gender = "M"
 locale = "ng-en"
 icon = "🦥"
@@ -15,32 +14,15 @@ icon = "🦥"
 fav = "Rust 🦀"
 most_used = "TypeScript"
 
-[os]
-kernel = "linux"
-flavor = "Arch Linux (Hyprland)"
-
 [toolkit]
 editor = "Neovim"
-terminal = "Kitty"
 shell = "Zsh"
-desktop = "Hyprland"
 browser = "Zen"
 
 [philosophy]
 software = "Pretty, minimal, efficient, and fast"
 learning = "Principle-driven; I seek the whys to truly understand and create with purpose"
 life = "Que sera sera 🤞"
-
-[current]
-focus = "Exploring systems programming with Rust"
-reading = "The Rust Book"
-project = "Building zet, a local-first terminal note-taking app"
-curious_about = [
-  "memory management",
-  "TUI frameworks",
-  "Zettelkasten structure",
-  "low-abstraction fullstack apps"
-]
 ```
 
 <!-- <a href="https://gitroll.io/profile/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uUCfbnn5sDaRlTQUA6uVhoQk2QpD2?theme=tokyoNight" alt="GitRoll Profile Badge"/></a> -->
